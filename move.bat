@@ -1,0 +1,1 @@
+for %f in ("%USERPROFILE%\Desktop\Opus Magnum - *.gif") do move "%f" "%USERPROFILE%\Desktop\opus-magnum"
